@@ -99,10 +99,10 @@ As I mentioned, these wikis are also called [digital gardens](https://joelhooks.
 
 I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wikis-i-liked) for inspiration. For example, [Devine's Wiki](https://wiki.xxiivv.com/site/home.html) is a great rabbit hole of fascinating info. Devine is one half of [100 Rabbits](https://100r.co/site/home.html) which is fascinating couple that [lives on a boat and does art](https://www.youtube.com/watch?v=BW32yUEymvU). I want to live a life like this one day but alas.
 
-I ♥️ meeting new people so feel free to [reach out](https://twitter.com/nikitavoloboev). I also hope you share what you know with the world as a form of a wiki like this too. It truly had a life changing effect on my life.
+I ♥️ meeting new people so feel free to [reach out](https://twitter.com/nikitavoloboev). I also hope you share what you know with the world as a form of a wiki like this too. It truly had a life changing effect on my life. 
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared. ♥️
+You can support me on [click counter](https://clickcounter.info) [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared. ♥️
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
